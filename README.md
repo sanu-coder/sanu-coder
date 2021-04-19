@@ -12,3 +12,5 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sanu-coder&&show_icons=true&title_color=33d6ff&icon_color=c2c2d6&text_color=ccccff&bg_color=000000">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanu-coder&theme=dark&hide_langs_below=1">
