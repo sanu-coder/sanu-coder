@@ -11,22 +11,25 @@ I am CSE student, 3-star coder and Web developer(Beginner) .
 - 😄 Pronouns: She, Her
 - ⚡ Fun fact: I always use to live in a world of imagination..
 -->
-
+<hr>
 ### Languages I know : 
 <img align="left" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/ios-filled/240/000000/php-logo.png"/>
 
+<br>
+<hr>
 ### skills I have : 
 
 <img align="left" src="https://img.icons8.com/ios-filled/50/000000/html-5.png"/>
 <img align="left" src="https://img.icons8.com/ios-glyphs/30/000000/css3.png"/>
 <img align="left"  src="https://img.icons8.com/ios-filled/60/000000/javascript-logo.png"/>
 <img  align="left" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
-
+<br>
+<hr>
 
 ### My Git stats : 
 <img src="https://github-readme-stats.vercel.app/api?username=sanu-coder&&show_icons=true&title_color=33d6ff&icon_color=c2c2d6&text_color=ccccff&bg_color=000000">
-
+<hr>
 ### Languages I used : 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanu-coder&theme=dark&hide_langs_below=1">
