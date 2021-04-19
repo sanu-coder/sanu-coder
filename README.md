@@ -14,6 +14,7 @@ I am CSE student, 3-star coder and Web developer(Beginner) .
 <hr>
 
 <b>Languages I know :  </b>
+<br>
 <img align="left" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/ios-filled/48/000000/php-logo.png"/>
@@ -27,13 +28,14 @@ I am CSE student, 3-star coder and Web developer(Beginner) .
 <img align="left"  src="https://img.icons8.com/ios-filled/60/000000/javascript-logo.png"/>
 <img  align="left" src="https://img.icons8.com/color/60/000000/bootstrap.png"/>
 <br>
-
+<br>
 <hr>
 
 <b>My Git stats :</b>
-<br>
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=sanu-coder&&show_icons=true&title_color=33d6ff&icon_color=c2c2d6&text_color=ccccff&bg_color=000000">
+<br>
 <b>Languages I use :</b>
 <br>
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanu-coder&theme=dark&hide_langs_below=1">
