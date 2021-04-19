@@ -20,7 +20,7 @@ I am CSE student, 3-star coder and Web developer(Beginner) .
 <img align="left" src="https://img.icons8.com/ios-filled/48/000000/php-logo.png"/>
 
 <br>
-
+<br><br><br>
 <b>Skills I have : </b>
 <br>
 <img align="left" src="https://img.icons8.com/ios-filled/60/000000/html-5.png"/>
