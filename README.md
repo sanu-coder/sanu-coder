@@ -31,15 +31,15 @@
  </p>
  
  
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Places where I write :</h3>
 <p align="left">
-<a href="https://dev.to/sanu-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanu-coder" height="30" width="40" /></a>
+<a href="https://dev.to/sanu-coder" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" /></a>
 
 
-<a href="https://www.codechef.com/users/sanya123_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanya123_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sanya123_" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" /></a>
 
 
-<a href="https://codeforces.com/profile/sanu_30122000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sanu_30122000" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sanu_30122000" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
