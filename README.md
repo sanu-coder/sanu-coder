@@ -21,8 +21,24 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanu-coder" alt="sanu-coder" /></a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
+  
+   <a href="https://twitter.com/SanyaRamchanda5" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/> alt="sanu-coder" height="30" width="40" /></a>
+  
+  <a href="https://www.linkedin.com/in/sanya-ramchandani-159a2319a/" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/> alt="sanu-coder" height="30" width="40" /></a>
+  
+ <a href="https://www.facebook.com/sanya.ramchandani.1/" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/facebook-new.png"/> alt="sanu-coder" height="30" width="40" /></a>
+ </p>
+ 
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://dev.to/sanu-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanu-coder" height="30" width="40" /></a>
+
+
 <a href="https://www.codechef.com/users/sanya123_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanya123_" height="30" width="40" /></a>
+
+
 <a href="https://codeforces.com/profile/sanu_30122000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sanu_30122000" height="30" width="40" /></a>
 </p>
 
