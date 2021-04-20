@@ -33,11 +33,11 @@
  
 <h3 align="left">Places where I write :</h3>
 <p align="left">
-<a href="https://dev.to/sanu-coder" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev" width="40" height="40" /></a>
+<a href="https://dev.to/sanu-coder" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev" width="40" height="40" /></a>
 
-<a href="https://www.codechef.com/users/sanya123_" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" width="40" height="40" /></a>
+<a href="https://www.codechef.com/users/sanya123_" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" width="40" height="40" /></a>
 
-<a href="https://codeforces.com/profile/sanu_30122000" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" width="40" height="40"/></a>
+<a href="https://codeforces.com/profile/sanu_30122000" target="_blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
