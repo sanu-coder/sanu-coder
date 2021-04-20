@@ -19,9 +19,11 @@
 
 - ⚡ Fun fact **I always use to live in a world of imagination.**
 
-<h3 align="left">Places where I write: 😊😊</h3>
+<h3 align="left">Places where I code: 😊😊</h3>
 <p align="left">
 <a href="https://dev.to/sanu-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanu-coder" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@sanya30122000" target="blank"><img align="center" src="https://img.icons8.com/pastel-glyph/64/000000/laptop-coding--v1.png" alt="sanu-coder" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/sanya30122000" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="sanu-coder" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sanya123_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanya123_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sanu_30122000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sanu_30122000" height="30" width="40" /></a>
 </p>
@@ -29,8 +31,8 @@
 <h3 align="left">Connect with me: 😊😊</h3>
 <p align="left">
 <a href="https://twitter.com/SanyaRamchanda5" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/64/000000/twitter.png" alt="sanu-coder" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sanya-ramchandani-159a2319a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanya123_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sanu_30122000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sanu_30122000" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanya-ramchandani-159a2319a/" target="blank"><img align="center" src="https://img.icons8.com/metro/26/000000/linkedin.png" alt="sanya123_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sanu_30122000/" target="blank"><img align="center" src="https://img.icons8.com/metro/26/000000/instagram-new.png" alt="sanu_30122000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
