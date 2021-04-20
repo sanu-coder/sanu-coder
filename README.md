@@ -32,7 +32,7 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanu-coder&&show_icons=true&title_color=00004d&icon_color=000066&text_color=5c85d6&bg_color=e6e6ff" alt="sanu-coder" /></p>
-<br><br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanu-coder&theme=dark&hide_langs_below=1" alt="sanu-coder" /></p>
 <br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanu-coder&" alt="sanu-coder" /></p>
