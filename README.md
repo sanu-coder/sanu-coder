@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanya Ramchandani 😊😊😊</h1>
-<h3 align="center">A CSE somophore who loves exploring new feild and empowering others, 3-star coder(CodeChef(1661)) and passionate frontend developer from India.</h3>
+<h3 align="center">A CSE sophomore who loves exploring new feild and empowering others, 3-star coder(CodeChef(1661)) and passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanu-coder&label=Profile%20views&color=0e75b6&style=flat" alt="sanu-coder" /> </p>
 
