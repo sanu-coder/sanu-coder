@@ -3,9 +3,6 @@
 <span><img src="https://user-images.githubusercontent.com/72346984/116807345-5531ea00-ab50-11eb-9189-975a717b737b.png" alt=""></span>
 <span><img src="https://user-images.githubusercontent.com/72346984/116807348-56fbad80-ab50-11eb-973f-09a78a2c2f8b.jpg" alt=""></span>
 
-<span><img src="https://user-images.githubusercontent.com/72346984/116807348-56fbad80-ab50-11eb-973f-09a78a2c2f8b.jpg" alt=""></span>
-
-
 
 
 <h1 align="center">Hi 👋, I'm Sanya Ramchandani 😊😊😊</h1>
