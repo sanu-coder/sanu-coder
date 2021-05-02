@@ -1,8 +1,8 @@
-
+<div style ="display: block;margin-left: auto;margin-right: auto;">
 <span><img src="https://user-images.githubusercontent.com/72346984/116807345-5531ea00-ab50-11eb-9189-975a717b737b.png" alt=""></span>
 <span><img src="https://user-images.githubusercontent.com/72346984/116807348-56fbad80-ab50-11eb-973f-09a78a2c2f8b.jpg" alt=""></span>
 
-
+</div>
 
 <h1 align="center">Hi 👋, I'm Sanya Ramchandani 😊😊😊</h1>
 <h3 align="center">A CSE sophomore who loves exploring new feild and empowering others, 3-star coder(CodeChef(1661)) and passionate frontend developer from India.</h3>
