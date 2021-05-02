@@ -1,3 +1,8 @@
+<img src="https://user-images.githubusercontent.com/72346984/116807104-df794e80-ab4e-11eb-97f7-52da1f8b7956.png" alt="">
+<img src="https://user-images.githubusercontent.com/72346984/116807342-53682680-ab50-11eb-91ce-5c762f741471.png" alt="">
+<img src="https://user-images.githubusercontent.com/72346984/116807345-5531ea00-ab50-11eb-9189-975a717b737b.png" alt="">
+<img src="https://user-images.githubusercontent.com/72346984/116807348-56fbad80-ab50-11eb-973f-09a78a2c2f8b.jpg" alt="">
+
 
 
 <h1 align="center">Hi 👋, I'm Sanya Ramchandani 😊😊😊</h1>
