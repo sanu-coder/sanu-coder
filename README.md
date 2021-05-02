@@ -3,12 +3,7 @@
 <span><img src="https://user-images.githubusercontent.com/72346984/116807345-5531ea00-ab50-11eb-9189-975a717b737b.png" alt=""></span>
 <span><img src="https://user-images.githubusercontent.com/72346984/116807348-56fbad80-ab50-11eb-973f-09a78a2c2f8b.jpg" alt=""></span>
 
-<span><img src="https://user-images.githubusercontent.com/72346984/116807337-4f3c0900-ab50-11eb-8449-871b779b39b0.png" alt=""></span>
-
-<span><img src="https://user-images.githubusercontent.com/72346984/116807340-5105cc80-ab50-11eb-955f-be2060e18482.png" alt=""></span>
-<span><img src="https://user-images.githubusercontent.com/72346984/116807334-4cd9af00-ab50-11eb-91d0-e94a911fe8b4.png" alt=""></span>
-
-
+<span><img src="https://user-images.githubusercontent.com/72346984/116807348-56fbad80-ab50-11eb-973f-09a78a2c2f8b.jpg" alt=""></span>
 
 
 
