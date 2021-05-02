@@ -1,8 +1,5 @@
-https://user-images.githubusercontent.com/72346984/116807104-df794e80-ab4e-11eb-97f7-52da1f8b7956.png
-<img src="https://user-images.githubusercontent.com/72346984/116807104-df794e80-ab4e-11eb-97f7-52da1f8b7956.png" alt="">
-<img src="https://user-images.githubusercontent.com/72346984/116807334-4cd9af00-ab50-11eb-91d0-e94a911fe8b4.png" alt="">
-<img src="https://user-images.githubusercontent.com/72346984/116807104-df794e80-ab4e-11eb-97f7-52da1f8b7956.png" alt="">
-<img src="https://user-images.githubusercontent.com/72346984/116807104-df794e80-ab4e-11eb-97f7-52da1f8b7956.png" alt="">
+
+
 <h1 align="center">Hi 👋, I'm Sanya Ramchandani 😊😊😊</h1>
 <h3 align="center">A CSE sophomore who loves exploring new feild and empowering others, 3-star coder(CodeChef(1661)) and passionate frontend developer from India.</h3>
 
