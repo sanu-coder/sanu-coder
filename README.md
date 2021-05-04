@@ -2,6 +2,8 @@
 <span><img src="https://user-images.githubusercontent.com/72346984/116807345-5531ea00-ab50-11eb-9189-975a717b737b.png" alt=""></span>
 <span><img src="https://user-images.githubusercontent.com/72346984/116807348-56fbad80-ab50-11eb-973f-09a78a2c2f8b.jpg" alt=""></span>
 <span><img src="https://user-images.githubusercontent.com/72346984/116807104-df794e80-ab4e-11eb-97f7-52da1f8b7956.png" alt=""></span>
+<span><img src="https://user-images.githubusercontent.com/72346984/117021956-72fc7c00-ad15-11eb-8551-aea2d7eaa9d0.png" alt=""></span>
+ 
 </div>
 
 <h1 align="center">Hi 👋, I'm Sanya Ramchandani 😊😊😊</h1>
